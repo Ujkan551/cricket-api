@@ -12,7 +12,7 @@ List it on RapidAPI to earn passive income!
 | GET | `/live-scores` | All live match scores right now |
 | GET | `/matches` | Upcoming & recent matches |
 | GET | `/match/{match_id}` | Full scorecard for a match |
-| GET | `/player/search?name=Kohli` | Search for a player |
+| GET | `/player/search?name=Gambhir` | Search for a player |
 | GET | `/player/{player_id}` | Detailed player career stats |
 | GET | `/series?type=league` | Ongoing/upcoming series list |
 
